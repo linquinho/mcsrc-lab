@@ -1,4 +1,11 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\alura-ms",
+    "\\alura-ms\\academico-php",
+    "\\alura-ms\\academico-php\\.github",
+    "\\alura-ms\\academico-php\\.github\\workflows"
+  ],
+  "SelectedNode": "\\alura-ms\\academico-php\\functions.php",
   "PreviewInSolutionExplorer": false
 }
